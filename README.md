@@ -16,7 +16,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/raghava20/raghava20/blob/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://github.com/raghava20/raghava20/output/github-contribution-grid-snake.svg" />
 
 ## 😄 Cool Stats
 
